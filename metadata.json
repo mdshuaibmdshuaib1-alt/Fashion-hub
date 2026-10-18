@@ -1,0 +1,7 @@
+{
+  {
+  "name": "LuxeStyle PWA",
+  "description": "A high-fashion e-commerce platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
